@@ -1,0 +1,8 @@
+Mario Quiñones Pérez
+
+Añadidas:
+-LimitChartDialog : dialogo pedido
+-ChartTable : tablaa dentro del dialogo
+
+Cambios en ControlPanel:
+Añadido boton y funcion pedidas
